@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frederik-Edel
-- 👀 I’m interested in making small apllications and games
+- 👀 I’m interested in making small applications and games
 - 🌱 I’m currently learning C#, Unity, Java, JavaScipt, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
